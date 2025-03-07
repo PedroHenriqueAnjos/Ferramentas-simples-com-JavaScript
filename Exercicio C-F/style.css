@@ -1,0 +1,45 @@
+main {
+
+
+
+    text-align: center;
+        
+    margin-top: 180px;
+    margin-left: 450px;
+
+    border: 1px solid plum;
+    border-radius: 20px;
+
+    height: 300px;
+    width: 400px;
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+    main>h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+
+
+#txt_far {
+width: 155px;
+border-radius: 20px;
+border: 1px solid plum;
+}
+
+#txt_cel {
+    width: 155px;
+    border-radius: 20px;
+    border: 1px solid plum;
+}
+
+
+button{
+border-radius: 20px;
+border: 1px solid plum;
+
+
+
+}
